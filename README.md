@@ -1,2 +1,2 @@
 # hello-world
-A beginners repository to test out new found knowledge.
+A beginner's repository to test out new found knowledge.
